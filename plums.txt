@@ -1,17 +1,17 @@
 This Is Just To Say
 BY WILLIAM CARLOS WILLIAMS
 
-I have eaten
-the plums
-that were in
-the icebox
+I have edited
+the file
+that was in
+the repository
 
 and which
 you were probably
 saving
-for breakfast
+to disk
 
 Forgive me
-they were delicious
-so sweet
-and so cold
+it was delicious
+so tweet
+and so bold
