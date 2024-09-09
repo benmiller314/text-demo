@@ -98,7 +98,7 @@ What affordances does the software now make more prominent?
 
 And some files you might think of as simple text aren't as simple as they seem.
 
-Let's see what happens if we modify [the .docx file that's also in the repo](This Is Just To Say.docx).
+Let's see what happens if we modify the .docx file that's also in the repo.
 
 
 ## Done!
