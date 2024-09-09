@@ -3,17 +3,17 @@ THIS IS JUST TO PLAY
 poem bastardized from William Carlos Williams
 
 I have hidden
-the oranges
+the config files
 that were in
 the backpack
 
 and which
 you were probably
-spending
+editing
 at 2am
 
 Forgive me
-they were pernicious
+they were virus-laden
 so suspicious
 and so mean
 
