@@ -9,7 +9,7 @@ In this demo, we're going to...
 4. Edit offline, syncing back and forth between cloud and local
 5. Try again with a more complicated file and talk about what happens
 
-For demonstration purposes, I'll lead the way –  though with your input. (Later, I'd like you to practice in teams – but for that, you'll start with [another repository](https://github.com/benmiller314/dsam-gh-practice). Wait for it. :)
+For demonstration purposes, I'll lead the way –  though with your input. (In just a bit, I'd like you to practice on your own – but for that, you'll start with another repository. Wait for it. :)
 
 
 ## Where we are
@@ -21,7 +21,7 @@ This text is, itself, coming from a single file inside the repository, with the 
 The file extension, '.md', refers to _Markdown_, a simple syntax for signaling display formats (bold, italic, bullets, headings, etc) in plain text files. As you can see here, GitHub knows how to render markup like `**repo**` in bold and `_folder_` in italics. Follow the link in this sentence for an [overview of Markdown syntax](https://www.markdownguide.org/basic-syntax/) you can use.
 
 
-## Let's look around (step 1)
+## Let's look around
 
 Initial questions to ask of any app:
 
@@ -37,16 +37,16 @@ In other words: what functions or actions are _afforded_ by this interface? What
 
 Git pays attention to _changes in files_ saved within the repo. You can make any changes you'd like, and when you've reached a stopping point, you can **commit** those changes to the repo's history. Once you've done that, you can later travel back to any of those moments in the past. If the file type is simple enough (text or image), you can even see the before-and-after, which git calls **diffs**.
 
-Each diff has a machine-meaningful **hash** associated with it – a long string of letters and numbers, derived from the contents of the files, so each one is essentially unique. But these hashes not very meaningful to humans! So every time you commit, you'll write a short **commit message** summarizing what's changed in that commit – or, perhaps, a reminder of what you want to do next.
+Each commit has a machine-meaningful **hash** associated with it – a long string of letters and numbers, derived from the contents of the files, so each one is essentially unique. But these hashes not very meaningful to humans! So every time you commit, you'll write a short **commit message** summarizing what's changed in that commit – or, perhaps, a reminder of what you want to do next.
 
 It's a good practice to _make these commit messages meaningful_: "draft 12" isn't much more informative than "h6287c", though I suppose both are better than the default: "file changed." We can improve on that, I hope!
 
-## Let's try it on the web first (steps 2, 3)
+## Let's try it on the web first
 
-The links and such you can add to a README file include links to other files in the repository. Here comes one now: let's read and then edit [this-is-just-to-say.txt](this-is-just-to-say.txt).
+The markdown syntax also lets you include links, including links to files in the repository. Here comes one now: let's read and  edit [this-is-just-to-say.txt](this-is-just-to-say.txt).
 
 
-## Then let's open the repo locally, using  GitHub Desktop (step 4)
+## Then let's open the repo locally, using  GitHub Desktop
 
 To work directly on the GitHub website, you don't need anything but a web browser. But most of the time, you're going to want to work on your own device with a *local copy* of your project. Not only does this allow you to use software beyond simple text files, if the project calls for it; it also gives you a chance to assess and revise in your own space, before pushing something out into the world.
 
@@ -97,10 +97,9 @@ What affordances does the software now make more prominent?
 
 And some files you might think of as simple text aren't as simple as they seem.
 
-Let's see what happens if we modify the .docx file that's also in the repo.
+Let's see what happens if we modify [the .docx file that's also in the repo](This Is Just To Say.docx).
 
 
 ## Done!
 
-Got all that? Now it's [time for you to try]
-(https://github.com/benmiller314/dsam-gh-practice)!
+Got all that? Now it's [time for you to try](https://github.com/benmiller314/dsam-gh-practice)!
