@@ -81,11 +81,12 @@ Let's go ahead and do it, then! :)
 
 ### Saving is not committing
 
-But it is a necessary precursor. Git (and therefore GitHub Desktop) doesn't know about changes until those changes are saved.
+But it is a necessary precursor. Git (and therefore GitHub Desktop) doesn't know about changed files until those changes are saved. (So if you don't see anything in GH Desktop, head back to your editor, save, and try again.)
 
 Likewise, git _history_ doesn't know about changes until they're committed. And we can't _push_ until we've changed the file's history.
 
-<!-- A good moral, there, or at least a mnemonic: if you want to change history, you've got to commit.  -->
+A good moral, there, or at least a mnemonic: if you want to change history, it's no use pushing at others; you, yourself, have to commit.
+
 
 ### Back in GH Desktop, what's changed?
 
